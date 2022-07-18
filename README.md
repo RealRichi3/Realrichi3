@@ -13,7 +13,7 @@
   -:Email: molunorichie@gmail.com
    
 <!--  
- [![Wilfred's github stats](https://github-readme-stats.vercel.app/api?username=RealRichi3&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/anuraghazra/github-readme-stats)
+ [![Richie's github stats](https://github-readme-stats.vercel.app/api?username=RealRichi3&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/anuraghazra/github-readme-stats)
  
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RealRichi3)](https://github.com/anuraghazra/github-readme-stats) -->
 
@@ -45,3 +45,5 @@
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>&nbsp;&nbsp;
  </p>
+
+![Profile View Counter](https://komarev.com/ghpvc/?username=RealRichi3)
