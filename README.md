@@ -1,8 +1,12 @@
 
 ### Hi there 👋, I'm Richie
-🌱 I’m currently learning to code in ...
+🌱 I’m a fullstack developer (backend heavy) 
+My tech stack 
 - Javascript
 - Python
+- NodeJS
+- ExpressJS
+- MongoDB
 - HTML
 - CSS
 
