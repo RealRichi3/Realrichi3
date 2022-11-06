@@ -4,6 +4,7 @@
 My tech stack 
 - Javascript
 - Python
+- Typescript
 - NodeJS
 - ExpressJS
 - MongoDB
