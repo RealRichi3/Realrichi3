@@ -22,6 +22,7 @@ My tech stack
  
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RealRichi3)](https://github.com/anuraghazra/github-readme-stats) -->
 
+
 <center>
   <table>
     <tr>
