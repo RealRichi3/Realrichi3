@@ -6,7 +6,7 @@ My tech stack
 - Python
 - Typescript
 - NodeJS
-- ExpressJS
+- ExpressJS 
 - MongoDB
 - HTML 
 - CSS
