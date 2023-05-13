@@ -13,7 +13,7 @@ My tech stack
 
 
 <!-- - 📫 You can find me on 
-  - :office: [LinkedIn](https://www.linkedin.com/in/richie-moluno-077892196/)
+  - :office: [LinkedIn](https://www.linkedin.com/in/richie-moluno-077892196/) 
   -:office: [twitter](https://twitter.com/MolunoRichie)
   -:Email: molunorichie@gmail.com
    
