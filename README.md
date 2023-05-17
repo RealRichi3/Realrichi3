@@ -7,7 +7,7 @@ My tech stack
 - Typescript
 - NodeJS 
 - ExpressJS 
-- MongoDB
+- MongoDB 
 - HTML 
 - CSS
 
