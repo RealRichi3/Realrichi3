@@ -4,7 +4,7 @@
 My tech stack 
 - Javascript
 - Python 
-- Typescript
+- Typescript 
 - NodeJS 
 - ExpressJS 
 - MongoDB 
