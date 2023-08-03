@@ -3,6 +3,7 @@
 🌱 I’m a fullstack developer (backend heavy) 
 My tech stack 
 - Javascript
+- React
 - Python 
 - Typescript 
 - NodeJS 
