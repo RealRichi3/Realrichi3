@@ -1,6 +1,6 @@
 
 ### Hi there 👋, I'm Richie
-🌱 I’m a fullstack developer (backend heavy) 
+🌱 I’m a Backend developer
 My tech stack 
 - Javascript
 - React
@@ -9,9 +9,6 @@ My tech stack
 - NodeJS 
 - ExpressJS 
 - MongoDB 
-- HTML 
-- CSS
-
 
 <!-- - 📫 You can find me on 
   - :office: [LinkedIn](https://www.linkedin.com/in/richie-moluno-077892196/) 
