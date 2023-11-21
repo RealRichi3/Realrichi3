@@ -24,8 +24,8 @@ My tech stack
 <center>
   <table>
     <tr>
-        <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api?username=RealRichi3&count_private=true&show_icons=true&theme=dark&layout=compact" /></td>
-        <td><img width="380px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RealRichi3&hide=html&layout=compact&theme=dark" /></td>      
+        <td><img width="400px" align="left" src="https://githubreadme-stats-psi.vercel.app/api?username=RealRichi3&count_private=true&show_icons=true&theme=dark&layout=compact" /></td>
+        <td><img width="380px" align="left" src="https://githubreadme-stats-psi.vercel.app/api/top-langs/?username=RealRichi3&hide=html&layout=compact&theme=dark" /></td>      
     </tr>   
   </table>
 </center>
