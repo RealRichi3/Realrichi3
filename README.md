@@ -1,14 +1,14 @@
 
 ### Hi there 👋, I'm Richie
-🌱 I’m a Backend developer
+🌱 I’m a Software developer
 My tech stack 
-- Javascript
+- Typescript
 - React
-- Python 
-- Typescript 
+- Python  
 - NodeJS 
-- ExpressJS 
-- MongoDB 
+- ExpressJS
+- PostgreSQL 
+- MongoDB
 
 <!-- - 📫 You can find me on 
   - :office: [LinkedIn](https://www.linkedin.com/in/richie-moluno-077892196/) 
