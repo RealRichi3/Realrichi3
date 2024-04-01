@@ -37,6 +37,7 @@ My tech stack
   <img src="https://img.shields.io/badge/-Node.js-green?style=for-the-badge&logo=node.js&logoColor=white" height="30"/>  
   <img src="https://img.shields.io/badge/-ExpressJS-grey?style=for-the-badge&logo=express&logoColor=white" height="30"/>
   <img src="https://img.shields.io/badge/-MongoDB-brightgreen?style=for-the-badge&logo=mongodb&logoColor=white" height="30"/>
+  <img src="https://img.shields.io/badge/Kafka-black?style=for-the-badge&logo=kafka&logoColor=black" height="30"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" height="30"/>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" height="30"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" height="30"/>
