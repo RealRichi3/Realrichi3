@@ -1,6 +1,9 @@
 
 ### Hi there 👋, I'm Richie
-🌱 I’m a Software developer
+🌱 I’m a Software developer <br>
+
+#
+
 My tech stack 
 - Typescript
 - React
@@ -21,7 +24,7 @@ My tech stack
   <table>
     <tr>
         <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api?username=RealRichi3&count_private=true&show_icons=true&theme=dark&hide_rank=false" /></td>
-        <td><img width="380px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RealRichi3" /></td>      
+        <td><img width="380px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RealRichi3&theme=dark" /></td>      
     </tr>   
   </table>
 </center>
