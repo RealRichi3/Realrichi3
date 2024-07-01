@@ -10,14 +10,9 @@ My tech stack
 - Python  
 - NodeJS 
 - ExpressJS
-- PostgreSQL 
-- MongoDB
+- PostgreSql
 
-<!-- - 📫 You can find me on 
-  - :office: [LinkedIn](https://www.linkedin.com/in/richie-moluno-077892196/) 
-  -:office: [twitter](https://twitter.com/MolunoRichie)
-  -:Email: molunorichie@gmail.com -->
-  
+- :Website: [richiemoluno.netlify.app](https://richiemoluno.netlify.app)
 
 
 <center>
