@@ -12,7 +12,7 @@ My tech stack
 - ExpressJS
 - PostgreSql
 
-- :Website: [richiemoluno.netlify.app](https://richiemoluno.netlify.app)
+- Website [richiemoluno.com](https://richiemoluno.com)
 
 
 <center>
