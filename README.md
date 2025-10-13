@@ -11,8 +11,6 @@ I'm a software engineer exploring the edge between backend systems and robotics.
 
 > Always building. Always learning. Open to collaboration.
 
-Website [richiemoluno.com](https://richiemoluno.com)
-
 <h2 align="left">Technologies and Tools</h2>
 <p align="left">
   <img src="https://img.shields.io/badge/-Golang-blue?style=for-the-badge&logo=go&logoColor=white" height="30"/>
