@@ -1,6 +1,5 @@
 
-### 👋 Hi there, I'm Richie Moluno
-
+### 👋 Hi there, I'm Richie
 I'm a software engineer exploring the edge between backend systems and robotics.
 
 - 🧠 Open source contributor
