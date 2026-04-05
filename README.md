@@ -2,13 +2,9 @@
 ### 👋 Hi there, I'm Richie
 I'm a software engineer exploring the edge between backend systems and robotics.
 
-- 🧠 Open source contributor
-  
-- 🤖 Robotics
-  
-- 🔧 Skilled in Go, Python, TypeScript, and distributed systems  
+Interests
 
-> Always building. Always learning. Open to collaboration.
+- Robotics, AI/ML and distributed systems  
 
 <h2 align="left">Technologies and Tools</h2>
 <p align="left">
