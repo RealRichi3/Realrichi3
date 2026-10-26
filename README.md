@@ -36,11 +36,11 @@ I work at the edge between backend systems and the physical world: distributed a
 
 <p align="left">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=RealRichi3&show_icons=true&hide_border=true&theme=tokyonight" />
-    <img height="165" src="https://github-readme-stats.vercel.app/api?username=RealRichi3&show_icons=true&hide_border=true" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://grs-neon.vercel.app/api?username=RealRichi3&show_icons=true&hide_border=true&theme=tokyonight" />
+    <img height="165" src="https://grs-neon.vercel.app/api?username=RealRichi3&show_icons=true&hide_border=true" />
   </picture>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=RealRichi3&layout=compact&hide_border=true&langs_count=8&theme=tokyonight" />
-    <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RealRichi3&layout=compact&hide_border=true&langs_count=8" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://grs-neon.vercel.app/api/top-langs/?username=RealRichi3&layout=compact&hide_border=true&langs_count=8&theme=tokyonight" />
+    <img height="165" src="https://grs-neon.vercel.app/api/top-langs/?username=RealRichi3&layout=compact&hide_border=true&langs_count=8" />
   </picture>
 </p>
