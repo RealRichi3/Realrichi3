@@ -17,9 +17,9 @@ I work at the edge between backend systems and the physical world: distributed a
 ## Projects
 
 **[Antadel](https://app.antadel.com)** : no-code trading OS
+- Turns a trader's own knowledge into a living replica: a personal quant that evolves and improves over time
 - A foundational layer to build, backtest, and automate any retail trading strategy, no code required
-- Ships with an evaluation harness that scores every strategy on fidelity: it does what you said, or it fails loudly
-- Replay methods against history and mine the recorded decisions for an edge
+- A sandbox to experiment on and sharpen the agent against market history
 - TypeScript monorepo: agent workflow engine, isolated strategy runtime, provider-agnostic broker and LLM, self-hosted
 
 **[Mantis](https://trymantis.com)** : modular manufacturing OS
