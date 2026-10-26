@@ -1,45 +1,33 @@
+# Hi, I'm Richie
 
-### 👋 Hi there, I'm Richie
-I'm a software engineer exploring the edge between backend systems and robotics.
+Software engineer with a soft spot for robotics, slowly inventing the universe one abstraction at a time.
 
-Interests
+I work at the edge between backend systems and the physical world: distributed architecture, AI/ML, and robotics.
 
-- Robotics, AI/ML and distributed systems  
+[Website](https://richiemoluno.com) &nbsp;·&nbsp; [LinkedIn](https://www.linkedin.com/in/richie-moluno/) &nbsp;·&nbsp; [X](https://twitter.com/MolunoRichie) &nbsp;·&nbsp; [Email](mailto:richiemoluno@gmail.com)
 
-<h2 align="left">Technologies and Tools</h2>
-<p align="left">
-  <img src="https://img.shields.io/badge/-Golang-blue?style=for-the-badge&logo=go&logoColor=white" height="30"/>
-  <img src="https://img.shields.io/badge/-Typescript-blue?style=for-the-badge&logo=typescript&logoColor=white" height="30"/>
-  <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" height="30"/>
-  <img src="https://img.shields.io/badge/-Node.js-green?style=for-the-badge&logo=node.js&logoColor=white" height="30"/>  
-  <img src="https://img.shields.io/badge/-ExpressJS-grey?style=for-the-badge&logo=express&logoColor=white" height="30"/>
-  <img src="https://img.shields.io/badge/-MongoDB-brightgreen?style=for-the-badge&logo=mongodb&logoColor=white" height="30"/>
-  <img src="https://img.shields.io/badge/-Postgres-blue?style=for-the-badge&logo=postgresql&logoColor=white" height="30"/>
-  <img src="https://img.shields.io/badge/Kafka-black?style=for-the-badge&logo=kafka&logoColor=black" height="30"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" height="30"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" height="30"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" height="30"/>
-</p>
+## Languages
 
-<h2 align="left">Contact me</h2>
-<a href="https://twitter.com/MolunoRichie" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />    
-  </a>&nbsp;&nbsp;
- <a href="https://www.linkedin.com/in/richie-moluno/" target="_blank">
-    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>&nbsp;&nbsp;
-  <a href="mailto:molunorichie@gmail.com" target="_blank"/>
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>&nbsp;&nbsp;
- </p>
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
 
-<center>
-  <table>
-    <tr>
-        <td><img width="400px" align="left" src="https://github-readme-stats-ten-ecru-65.vercel.app/api?username=RealRichi3&count_private=true&show_icons=true&theme=dark&hide_rank=false" /></td>
-        <td><img width="380px" align="left" src="https://github-readme-stats-ten-ecru-65.vercel.app/api/top-langs/?username=RealRichi3&theme=dark&layout=donut" /></td>      
-    </tr>   
-  </table>
-</center>
+## Projects
 
-![Profile View Counter](https://komarev.com/ghpvc/?username=RealRichi3)
+**[Antadel](https://app.antadel.com)** : no-code trading automation
+- Offloads a trader's own method into an AI agent that reads the chart by their rules, every step visible, no code
+- Ships with an evaluation harness that scores the agent on fidelity to the method: it does what you said, or it fails loudly
+- Backtest and replay any method, then mine the recorded decisions for an edge
+- TypeScript monorepo: agent workflow engine, isolated strategy runtime, provider-agnostic broker and LLM, self-hosted
+
+**[Mantis](https://trymantis.com)** : modular manufacturing OS
+- Work instructions, quality, inventory, people, and equipment on one connected platform
+- Built for SMB factories
+
+## Open Source
+
+- **[Open Science Community Saudi Arabia](https://github.com/Open-Science-Community-Saudi-Arabia)** : multilingual open-education platforms and tooling (JSquarto, MOOCs)
+- **[The Turing Way](https://github.com/the-turing-way/the-turing-way)** : localisation and contributor-attribution work on the open-source guide
+- **[Crowdin Contributors bot](https://github.com/RealRichi3/crowdin-contributors-automation)** : automates contributor attribution from Crowdin project data
