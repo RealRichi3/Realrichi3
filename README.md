@@ -4,7 +4,7 @@ Software engineer with a soft spot for robotics, slowly inventing the universe o
 
 I work at the edge between backend systems and the physical world: distributed architecture, AI/ML, and robotics.
 
-[Website](https://richiemoluno.com) &nbsp;·&nbsp; [LinkedIn](https://www.linkedin.com/in/richie-moluno/) &nbsp;·&nbsp; [X](https://twitter.com/MolunoRichie) &nbsp;·&nbsp; [Email](mailto:richiemoluno@gmail.com)
+[richiemoluno.com](https://richiemoluno.com) &nbsp;·&nbsp; [LinkedIn](https://www.linkedin.com/in/richie-moluno/) &nbsp;·&nbsp; [X](https://twitter.com/MolunoRichie) &nbsp;·&nbsp; [Email](mailto:richiemoluno@gmail.com)
 
 ## Languages
 
