@@ -30,4 +30,11 @@ I work at the edge between backend systems and the physical world: distributed a
 
 - **[Open Science Community Saudi Arabia](https://github.com/Open-Science-Community-Saudi-Arabia)** : multilingual open-education platforms and tooling (JSquarto, MOOCs)
 - **[The Turing Way](https://github.com/the-turing-way/the-turing-way)** : localisation and contributor-attribution work on the open-source guide
-- **[Crowdin Contributors bot](https://github.com/RealRichi3/crowdin-contributors-automation)** : automates contributor attribution from Crowdin project data
+- **[Crowdin Contributors action](https://github.com/andrii-bodnar/action-crowdin-contributors)** : fixed data-rendering bugs in the tool that automates contributor attribution from Crowdin
+
+## GitHub
+
+<p align="left">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=RealRichi3&show_icons=true&count_private=true&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RealRichi3&layout=compact&hide_border=true&langs_count=8" />
+</p>
